@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FARREL_1202150033_MODUL2</string>
+    <string-array name="tables_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+
+    </string-array>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="takeAway">Take Away</string>
+    <string name="dineIn">Dine In</string>
+    <string name="pesanSekarang">Pesan Sekarang</string>
+    <string name="nothing_clicked">Nothing Clicked</string>
+</resources>
